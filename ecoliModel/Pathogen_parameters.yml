@@ -1,0 +1,5 @@
+E.coli:
+    distribution: beta-poisson
+    alpha: 0.373
+    beta: 39.71
+    source: Teunis et al., 2008

@@ -1,0 +1,17 @@
+Wading_Adult:
+  unit: ml/event
+  ing: 10
+
+Swimming_Adult: 
+  unit: ml/h
+  ing: 30
+
+Wading_Children:  
+  unit: ml/event
+  ing: 30
+
+Swimming_Children: 
+  unit: ml/h
+  ing: 50
+
+
