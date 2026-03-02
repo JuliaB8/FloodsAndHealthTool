@@ -1,0 +1,10 @@
+# GDP data per capita (World Bank, 2023)/1000 USD
+countries:
+  Mozambique:
+    GDP_per_capita: 0.623
+  Ghana:
+    GDP_per_capita: 0
+  Gambia:
+    GDP_per_capita: 0
+  Nigeria:
+    GDP_per_capita: 1.597

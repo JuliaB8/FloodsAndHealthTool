@@ -1,0 +1,21 @@
+sanitation_types:
+  Safe:
+    rural_reduction_factor: 0.10
+    urban_reduction_factor: 0.10
+  Advanced:
+    rural_reduction_factor: 0.25
+    urban_reduction_factor: 0.25
+  Basic:
+    rural_reduction_factor: 0.30
+    urban_reduction_factor: 0.70
+  None:
+    rural_reduction_factor: 1.00
+    urban_reduction_factor: 1.00
+
+countries:
+  Mozambique:
+    sanitation_coverage:
+      Safe: { rural: 21, urban: 0 }
+      Advanced: { rural: 2, urban: 61 }
+      Basic: { rural: 49, urban: 34 }
+      None: { rural: 28, urban: 5 }
