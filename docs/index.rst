@@ -28,7 +28,7 @@ This manual is outlined containing the following parts, see also the overview ba
 * Developments
 * Getting started
 * User manual
-* Input parameters and files
+* Input parameter and files
 * Model output and messages
 
 Acknowledgements
